@@ -1,0 +1,12 @@
+'''
+Aprender lo que es el slicing.
+'''
+
+# Librerias
+import numpy as np
+
+# Slicing sirve para obtener varios elementos de la matriz ea la vez
+lista = list(range(6,21))
+
+
+print(lista[4:9:1])
